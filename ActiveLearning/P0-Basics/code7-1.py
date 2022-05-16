@@ -3,7 +3,7 @@
 # A First Example
 print("\n# A First Example")
 
-# flask, flask_compress
+# flask, flask_compress, ipywidgets
 
 import torch
 import torch.nn.functional as F

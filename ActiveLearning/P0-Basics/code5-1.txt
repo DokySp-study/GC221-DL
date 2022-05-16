@@ -1,0 +1,99 @@
+
+# Showing Images in TensorBoard
+
+# Graphing Scalars to Visualize Training
+2500
+Batch 1000
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+Batch 2000
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+Batch 3000
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+Batch 4000
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+Batch 5000
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+Batch 6000
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+Batch 7000
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+Batch 8000
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+Batch 9000
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+Batch 10000
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+Batch 11000
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+Batch 12000
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+Batch 13000
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+Batch 14000
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+Batch 15000
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+Finished Training
+
+# Visualizing Your Model
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+
+# Showing Images in TensorBoard
+
+# Visualizing Your Dataset with Embeddings
+warning: Embedding dir exists, did you set global_step for add_embedding()?
+Build done!

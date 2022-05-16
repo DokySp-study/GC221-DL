@@ -1,0 +1,147 @@
+Training set has 60000 instances
+Validation set has 10000 instances
+Shirt  Coat  Shirt  Bag
+tensor([[0.8095, 0.4410, 0.7621, 0.7709, 0.8090, 0.2039, 0.9019, 0.0233, 0.2972,
+         0.4472],
+        [0.8510, 0.9064, 0.8077, 0.9147, 0.8849, 0.3949, 0.8487, 0.2982, 0.0900,
+         0.6667],
+        [0.8092, 0.5900, 0.2998, 0.6263, 0.2239, 0.5778, 0.5026, 0.8879, 0.7105,
+         0.7806],
+        [0.1860, 0.4026, 0.3846, 0.3138, 0.5346, 0.3019, 0.6217, 0.2052, 0.4709,
+         0.4048]])
+tensor([1, 5, 3, 7])
+Total loss for this batch: 2.4609851837158203
+EPOCH 1:
+Training set has 60000 instances
+Validation set has 10000 instances
+Training set has 60000 instances
+Validation set has 10000 instances
+  batch 1000 loss: 1.693666863106191
+  batch 2000 loss: 0.8383549389094115
+  batch 3000 loss: 0.6812613380956464
+  batch 4000 loss: 0.627585252310615
+  batch 5000 loss: 0.5896373681708356
+  batch 6000 loss: 0.5504352934551425
+  batch 7000 loss: 0.5136904728033114
+  batch 8000 loss: 0.5062581531074829
+  batch 9000 loss: 0.4858843554172199
+  batch 10000 loss: 0.4734816973268753
+  batch 11000 loss: 0.4668802155827871
+  batch 12000 loss: 0.4394926898308331
+  batch 13000 loss: 0.40664103894040454
+  batch 14000 loss: 0.435827734145103
+  batch 15000 loss: 0.42848164243297654
+Training set has 60000 instances
+Validation set has 10000 instances
+Training set has 60000 instances
+Validation set has 10000 instances
+LOSS train 0.42848164243297654 valid 0.45183065533638
+EPOCH 2:
+Training set has 60000 instances
+Validation set has 10000 instances
+Training set has 60000 instances
+Validation set has 10000 instances
+  batch 1000 loss: 0.4091697793933563
+  batch 2000 loss: 0.42020606669795235
+  batch 3000 loss: 0.3600614852279832
+  batch 4000 loss: 0.3770619550432457
+  batch 5000 loss: 0.3756080827356709
+  batch 6000 loss: 0.3959866431560367
+  batch 7000 loss: 0.3944929171926924
+  batch 8000 loss: 0.3638696448392584
+  batch 9000 loss: 0.3900359498241451
+  batch 10000 loss: 0.3344434915237944
+  batch 11000 loss: 0.3565363956659421
+  batch 12000 loss: 0.3494427807655593
+  batch 13000 loss: 0.3693718493883789
+  batch 14000 loss: 0.3980280507651041
+  batch 15000 loss: 0.35128618008989726
+Training set has 60000 instances
+Validation set has 10000 instances
+Training set has 60000 instances
+Validation set has 10000 instances
+LOSS train 0.35128618008989726 valid 0.3655163645744324
+EPOCH 3:
+Training set has 60000 instances
+Validation set has 10000 instances
+Training set has 60000 instances
+Validation set has 10000 instances
+  batch 1000 loss: 0.31889866042422366
+  batch 2000 loss: 0.34352859734825325
+  batch 3000 loss: 0.32711070100072537
+  batch 4000 loss: 0.32387484828033486
+  batch 5000 loss: 0.34595971797551467
+  batch 6000 loss: 0.3298465158780164
+  batch 7000 loss: 0.3173113307801832
+  batch 8000 loss: 0.3241719190714939
+  batch 9000 loss: 0.34096811334311494
+  batch 10000 loss: 0.3400448465112131
+  batch 11000 loss: 0.33746168677080846
+  batch 12000 loss: 0.32848283484214336
+  batch 13000 loss: 0.31945849622671085
+  batch 14000 loss: 0.31714562854051476
+  batch 15000 loss: 0.3242032105903636
+Training set has 60000 instances
+Validation set has 10000 instances
+Training set has 60000 instances
+Validation set has 10000 instances
+LOSS train 0.3242032105903636 valid 0.37794190645217896
+EPOCH 4:
+Training set has 60000 instances
+Validation set has 10000 instances
+Training set has 60000 instances
+Validation set has 10000 instances
+  batch 1000 loss: 0.29490679732245917
+  batch 2000 loss: 0.3105810026899708
+  batch 3000 loss: 0.31270692535908895
+  batch 4000 loss: 0.29291961255160276
+  batch 5000 loss: 0.2853662088992278
+  batch 6000 loss: 0.30986513379649294
+  batch 7000 loss: 0.2971956927437059
+  batch 8000 loss: 0.300755502042854
+  batch 9000 loss: 0.3016920986355108
+  batch 10000 loss: 0.30142983506602467
+  batch 11000 loss: 0.29914390553074915
+  batch 12000 loss: 0.28913877365607915
+  batch 13000 loss: 0.29338442167302126
+  batch 14000 loss: 0.3056647692246042
+  batch 15000 loss: 0.2866267540697736
+Training set has 60000 instances
+Validation set has 10000 instances
+Training set has 60000 instances
+Validation set has 10000 instances
+LOSS train 0.2866267540697736 valid 0.3275822401046753
+EPOCH 5:
+Training set has 60000 instances
+Validation set has 10000 instances
+Training set has 60000 instances
+Validation set has 10000 instances
+  batch 1000 loss: 0.27914207827525206
+  batch 2000 loss: 0.2816744998269933
+  batch 3000 loss: 0.2850440413413271
+  batch 4000 loss: 0.27086757122576094
+  batch 5000 loss: 0.29298269660098597
+  batch 6000 loss: 0.2584356493493833
+  batch 7000 loss: 0.281858467207363
+  batch 8000 loss: 0.2966883059578504
+  batch 9000 loss: 0.2694141668705524
+  batch 10000 loss: 0.27352083710421904
+  batch 11000 loss: 0.2734672266588095
+  batch 12000 loss: 0.2754525957516971
+  batch 13000 loss: 0.2868565869720351
+  batch 14000 loss: 0.2729441600438422
+  batch 15000 loss: 0.2932779517563104
+Training set has 60000 instances
+Validation set has 10000 instances
+Training set has 60000 instances
+Validation set has 10000 instances
+LOSS train 0.2932779517563104 valid 0.3095804750919342
+GarmentClassifier(
+  (conv1): Conv2d(1, 6, kernel_size=(5, 5), stride=(1, 1))
+  (pool): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  (conv2): Conv2d(6, 16, kernel_size=(5, 5), stride=(1, 1))
+  (fc1): Linear(in_features=256, out_features=120, bias=True)
+  (fc2): Linear(in_features=120, out_features=84, bias=True)
+  (fc3): Linear(in_features=84, out_features=10, bias=True)
+)
+<generator object Module.parameters at 0x29e915f90>

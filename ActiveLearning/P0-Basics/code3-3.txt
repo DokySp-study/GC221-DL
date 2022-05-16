@@ -1,0 +1,18 @@
+tensor([[1., 1., 1.],
+        [1., 1., 1.]], requires_grad=True)
+tensor([[2., 2., 2.],
+        [2., 2., 2.]], grad_fn=<MulBackward0>)
+tensor([[2., 2., 2.],
+        [2., 2., 2.]])
+tensor([[5., 5., 5.],
+        [5., 5., 5.]], grad_fn=<AddBackward0>)
+tensor([[5., 5., 5.],
+        [5., 5., 5.]])
+tensor([[6., 6., 6.],
+        [6., 6., 6.]], grad_fn=<MulBackward0>)
+tensor([[5., 5., 5.],
+        [5., 5., 5.]], grad_fn=<AddBackward0>)
+tensor([[5., 5., 5.],
+        [5., 5., 5.]])
+tensor([0.9516, 0.6448, 0.8410, 0.8781, 0.3773], requires_grad=True)
+tensor([0.9516, 0.6448, 0.8410, 0.8781, 0.3773])
