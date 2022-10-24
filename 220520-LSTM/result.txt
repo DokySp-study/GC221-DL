@@ -1,0 +1,54 @@
+final text accuracy 39/50 (0.7800)
+whole text accuracy 141/200 (0.7050)
+
+final text accuracy 33/50 (0.6600)
+whole text accuracy 129/200 (0.6450)
+
+final text accuracy 39/50 (0.7800)
+whole text accuracy 134/200 (0.6700)
+
+
+
+n_layers = 1
+final text accuracy 43/50 (0.8600)
+whole text accuracy 152/200 (0.7600)
+                                        
+n_layers = 5
+final text accuracy 35/50 (0.7000)
+whole text accuracy 98/200 (0.4900)
+
+
+
+
+n_layers = 2
+final text accuracy 45/50 (0.9000)
+whole text accuracy 156/200 (0.7800)
+
+final text accuracy 41/50 (0.8200)
+whole text accuracy 152/200 (0.7600)
+
+final text accuracy 48/50 (0.9600)
+whole text accuracy 160/200 (0.8000)
+
+final text accuracy 46/50 (0.9200)
+whole text accuracy 159/200 (0.7950)
+
+final text accuracy 45/50 (0.9000)
+whole text accuracy 156/200 (0.7800)
+
+
+n_layers = 3
+final text accuracy 45/50 (0.9000)
+whole text accuracy 153/200 (0.7650)
+
+final text accuracy 43/50 (0.8600)
+whole text accuracy 143/200 (0.7150)
+
+final text accuracy 39/50 (0.7800)
+whole text accuracy 137/200 (0.6850)
+
+
+
+n_layers = 4
+final text accuracy 41/50 (0.8200)
+whole text accuracy 112/200 (0.5600)
